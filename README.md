@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @UjjawalKhadanga
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning ReactJS, NodeJS and Django
+# 👨‍💻 Software Engineer
 
-<!---
-UjjawalKhadanga/UjjawalKhadanga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Just a engineering enthusiast trying to make the internet a better place one line of code at a time! I'm all about building fast, scalable, and cool stuff.
