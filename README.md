@@ -1,3 +1,5 @@
-# 👨‍💻 Software Engineer
+👨‍💻 Backend Engineer | Redis, Node.js, Systems Design
 
-🚀 Just a engineering enthusiast trying to make the internet a better place one line of code at a time! I'm all about building fast, scalable, and cool stuff.
+Building scalable systems, distributed services, and developer tools that don’t break under pressure. From rate limiters to real-time apps — I enjoy solving problems that make backend infra smarter and faster.
+
+Always hacking, always learning.
